@@ -1,0 +1,5 @@
+../Core/Src/user/ina220.c:15:5:INA220_GetVoltage	32	static
+../Core/Src/user/ina220.c:28:5:INA220_GetCurrent	32	static
+../Core/Src/user/ina220.c:40:5:INA220_GetPower	32	static
+../Core/Src/user/ina220.c:51:6:INA220_Init	48	static
+../Core/Src/user/ina220.c:60:4:INA220_CNVR	32	static

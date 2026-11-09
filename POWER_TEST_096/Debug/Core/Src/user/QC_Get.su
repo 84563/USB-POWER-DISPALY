@@ -1,0 +1,8 @@
+../Core/Src/user/QC_Get.c:25:6:QC_DP_Init	32	static
+../Core/Src/user/QC_Get.c:47:6:QC_DM_Init	32	static
+../Core/Src/user/QC_Get.c:75:6:QC_DP_vol	8	static
+../Core/Src/user/QC_Get.c:94:6:QC_DM_vol	8	static
+../Core/Src/user/QC_Get.c:116:4:QC_Check	16	static
+../Core/Src/user/QC_Get.c:144:6:QC2_adj	8	static
+../Core/Src/user/QC_Get.c:170:6:QC3_adj	8	static
+../Core/Src/user/QC_Get.c:191:6:QC_DeInit	8	static
